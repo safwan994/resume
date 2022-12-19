@@ -26,7 +26,7 @@
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   /*
   $contact->smtp = array(
-    'host' => 'example.com',
+    'host' => 'DESKTOP-LSBFF6E\SQLEXPRESS01',
     'username' => 'example',
     'password' => 'pass',
     'port' => '587'
