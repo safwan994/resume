@@ -110,4 +110,3 @@ if (filter_var($from, FILTER_VALIDATE_EMAIL)) {
 
 })();
 
-})();
