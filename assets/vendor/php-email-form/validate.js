@@ -1,7 +1,7 @@
 /**
 * PHP Email Form Validation 
 */
-  (function () {
+(function () {
   "use strict";
 
   let forms = document.querySelectorAll('.php-email-form');
@@ -75,6 +75,5 @@
     thisForm.querySelector('.error-message').innerHTML = error;
     thisForm.querySelector('.error-message').classList.add('d-block');
   }
-
 })();
 
