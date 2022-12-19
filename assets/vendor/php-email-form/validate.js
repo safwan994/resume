@@ -16,7 +16,7 @@ alert("You have entered an invalid email address!");
 document.form1.text1.focus();
 return false;
 }
-  $to = 'yourmail@yourdomain.ltd';
+  $to = 'safwan994.sj@gmail.com';
 $name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_SPECIAL_CHARS);
 $from = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
 $subject = filter_input(INPUT_POST, 'subject', FILTER_SANITIZE_SPECIAL_CHARS);
